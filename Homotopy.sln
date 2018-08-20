@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homotopy", "Assembly-CSharp.csproj", "{BF487987-C425-B0BE-DBC6-13C8DCF7E1EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homotopy", "Assembly-CSharp-Editor.csproj", "{FCA87146-46F0-C1CD-8FD6-E65EB92493EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF487987-C425-B0BE-DBC6-13C8DCF7E1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF487987-C425-B0BE-DBC6-13C8DCF7E1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF487987-C425-B0BE-DBC6-13C8DCF7E1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF487987-C425-B0BE-DBC6-13C8DCF7E1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA87146-46F0-C1CD-8FD6-E65EB92493EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA87146-46F0-C1CD-8FD6-E65EB92493EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA87146-46F0-C1CD-8FD6-E65EB92493EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA87146-46F0-C1CD-8FD6-E65EB92493EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
